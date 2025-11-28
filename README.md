@@ -70,7 +70,7 @@ Example API endpoint:
 
 ---
 
-## 🔧 Environment Variables
+## Environment Variables
 
 ### **Frontend (`frontend/.env`)**
 
