@@ -107,7 +107,8 @@ prou-task-tracker/
 ├── src/
 │ ├── pages/
 │ ├── components/
-│ ├── services/api.js
+│ ├── services/
+│ │ └── api.js
 │ └── App.jsx
 ├── public/
 ├── package.json
