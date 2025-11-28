@@ -91,7 +91,7 @@ JWT_SECRET=your-secret
 ---
 
 ## Folder Structure
-
+```
 prou-task-tracker/
 │
 ├── backend/
@@ -113,7 +113,7 @@ prou-task-tracker/
 ├── public/
 ├── package.json
 └── .env
-
+```
 
 
 ---
